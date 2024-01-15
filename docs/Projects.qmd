@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+## Predicting a country's defense budget given its population, area and some economical aspects.
+
+PROJECT TO GET FAMILIAR WITH PYTHON'S MAIN STATISTICAL AND DATA SCIENCE PACKAGES
+
+• Basic exploration of the data-set and a multivariate linear model in order to predict how much each country spends on defense, based on some of its economical and size indicators. 

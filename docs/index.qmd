@@ -1,0 +1,20 @@
+---
+title: "About me"
+---
+
+---
+title: "Ilaria Francesca Lunardelli"
+about:
+  template: jolla
+  image: me.jpg
+  links:
+    - icon: email
+      text: Email
+      href: mailto::ilarialunardelli@gmail.com
+      
+    - icon: github
+      text: Github
+      href: https://github.com/ilaluna
+---
+
+Ilaria Francesca Lunardelli is a statistics student at Utrecht University. Besides her studies, she is currently working at Utrecht University as reserach assistant and at Centraal Bureau voor de Statistiek as intern. In her free time, Ilaria enjoys spending time with her dog "Bimba" and cooking.

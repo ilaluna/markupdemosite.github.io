@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Ilaria Francesca Lunardelli"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About me
+      - href: CV.qmd
+        text: CV
+      - href: Projects.qmd
+        text: Projects
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

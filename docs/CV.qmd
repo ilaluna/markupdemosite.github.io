@@ -1,0 +1,58 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Education
+
+**M.A in Methodology and Statistics for the Behavioral, Biomedical and Social Sciences**
+
+Utrecht University, Utrecht \| the Netherlands \| Sept 2022 - present
+
+**B.A in Economic Development**
+
+University of Florence, Florence \| Italy \| Sept 2019 - June 2022
+
+-   Final grade 110/110
+
+## Experience
+
+**Internship project on smart surveys**
+
+Centraal Bureau voor de Statistiek \| Sept 2023 - present
+
+Internship for Master thesis on the project \"Predicting Smart Survey Participation\". This project is part of the Smart Survey Implementation
+project, which is funded by Eurostat.
+
+• Analyses on determinants of willingness to participate in smart surveys within and between the Netherlands, Italy and Slovenia.
+
+• Machine learning modeling of willingness to participate in smart surveys through administrative variables.
+
+**Student Assistant**
+
+Utrecht University \| May 2023 - present
+
+Research assistant in projects on Youth non-response and interactive surveys.
+
+• Literature reviews of the researched topic.
+
+• Assessment of the suitability of available tools for developing new research areas.
+
+				
+			
+		
+
+	
+
+## Skills
+
+**Programming**
+
+R and RStudio, Mplus.
+
+**Software**
+
+Latex, Quarto, Office package.
+
+**Foreign Languages**
+
+*mother tongue:* Italian, *advanced:* English, *intermediate:* French, *intermediate:* German.
